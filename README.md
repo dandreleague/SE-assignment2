@@ -10,7 +10,7 @@ This repo contains a basic Python program (`SEpython.py`) that prints a greeting
 - Simulating and resolving a merge conflict
 - Managing work with GitHub Issues
 
-## Requirements Map (what the assignment asked for)
+## Requirements 
 - Initial repo + README 
 - Hello program + first commit 
 - Branch `feature-1` with a change, PR to `main`, assign/review/merge 
